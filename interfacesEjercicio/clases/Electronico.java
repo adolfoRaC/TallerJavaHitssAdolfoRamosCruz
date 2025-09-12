@@ -1,6 +1,6 @@
 package ejercicio.clases;
 
-import ejercicio.interfaces.IElectronico;
+import genericosSupermercado.interfaces.IElectronico;
 
 public abstract class Electronico extends Producto implements IElectronico {
     private String fabricante;

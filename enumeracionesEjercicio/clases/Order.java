@@ -1,8 +1,8 @@
 package ejercicio.clases;
 
-import ejercicio.enums.OrderPriority;
-import ejercicio.enums.OrderStatus;
-import ejercicio.enums.PaymentMethod;
+import genericosSupermercado.enums.OrderPriority;
+import genericosSupermercado.enums.OrderStatus;
+import genericosSupermercado.enums.PaymentMethod;
 
 public class Order {
     private final int id;

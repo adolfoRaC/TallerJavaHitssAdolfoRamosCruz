@@ -2,8 +2,8 @@ package ejercicio.impl;
 
 import java.time.LocalDate;
 
-import ejercicio.clases.Producto;
-import ejercicio.interfaces.ILibro;
+import genericosSupermercado.clases.Producto;
+import genericosSupermercado.interfaces.ILibro;
 
 public class Libro extends Producto implements ILibro {
     private LocalDate fechaPublicacion;

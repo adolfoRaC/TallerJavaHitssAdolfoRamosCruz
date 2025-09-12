@@ -1,11 +1,11 @@
 package ejercicio.test;
 
-import ejercicio.clases.Guepardo;
-import ejercicio.clases.Leon;
-import ejercicio.clases.Lobo;
-import ejercicio.clases.Mamifero;
-import ejercicio.clases.Perro;
-import ejercicio.clases.Tigre;
+import genericosSupermercado.clases.Guepardo;
+import genericosSupermercado.clases.Leon;
+import genericosSupermercado.clases.Lobo;
+import genericosSupermercado.clases.Mamifero;
+import genericosSupermercado.clases.Perro;
+import genericosSupermercado.clases.Tigre;
 
 public class TestMain {
     public static void main(String[] args) {

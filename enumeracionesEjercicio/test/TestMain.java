@@ -1,9 +1,9 @@
 package ejercicio.test;
 
-import ejercicio.clases.Order;
-import ejercicio.enums.OrderPriority;
-import ejercicio.enums.OrderStatus;
-import ejercicio.enums.PaymentMethod;
+import genericosSupermercado.clases.Order;
+import genericosSupermercado.enums.OrderPriority;
+import genericosSupermercado.enums.OrderStatus;
+import genericosSupermercado.enums.PaymentMethod;
 
 public class TestMain {
     public static void main(String[] args) {

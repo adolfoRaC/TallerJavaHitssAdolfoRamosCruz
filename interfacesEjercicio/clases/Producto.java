@@ -1,6 +1,6 @@
 package ejercicio.clases;
 
-import ejercicio.interfaces.IProducto;
+import genericosSupermercado.interfaces.IProducto;
 
 public abstract class Producto implements IProducto {
     private int precio;

@@ -1,7 +1,7 @@
 package ejercicio.test;
 
-import ejercicio.clases.Cliente;
-import ejercicio.clases.Gerente;
+import genericosSupermercado.clases.Cliente;
+import genericosSupermercado.clases.Gerente;
 
 public class TestMain {
     public static void main(String[] args) {

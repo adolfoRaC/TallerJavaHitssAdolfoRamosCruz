@@ -2,12 +2,12 @@ package ejercicio.test;
 
 import java.time.LocalDate;
 
-import ejercicio.clases.Producto;
-import ejercicio.impl.Comics;
-import ejercicio.impl.IPhone;
-import ejercicio.impl.Libro;
-import ejercicio.impl.TvLcd;
-import ejercicio.interfaces.IProducto;
+import genericosSupermercado.clases.Producto;
+import genericosSupermercado.impl.Comics;
+import genericosSupermercado.impl.IPhone;
+import genericosSupermercado.impl.Libro;
+import genericosSupermercado.impl.TvLcd;
+import genericosSupermercado.interfaces.IProducto;
 
 public class ProyectoCatalogo {
     public static void main(String[] args) {

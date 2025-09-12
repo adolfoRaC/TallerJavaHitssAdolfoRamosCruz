@@ -1,6 +1,6 @@
 package ejercicio.impl;
 
-import ejercicio.clases.Electronico;
+import genericosSupermercado.clases.Electronico;
 
 public class IPhone extends Electronico {
     private String modelo;
